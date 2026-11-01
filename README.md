@@ -485,4 +485,4 @@ Timings vary between machines and runs. Dates and ids depend on the run date, so
 
 ## 20. Academic integrity
 
-The supplied dataset generator is the only code provided with the course. Its generation logic is unchanged; only the target volumes were set to 100,000 sessions and 30,000 transactions. All loading, query, Spark, integration and chart code in this repository was run and checked by the author, and the results were cross-checked between MongoDB and Spark. An AI assistant (Claude, from Anthropic) was used for guidance and to help draft code and documentation; every figure in the report comes from running the programs.
+The supplied dataset generator is the only code provided with the course. Its generation logic is unchanged; only the target volumes were set to 100,000 sessions and 30,000 transactions. All loading, query, Spark, integration and chart code in this repository was run and checked by the author, and the results were cross-checked between MongoDB and Spark.

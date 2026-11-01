@@ -1,0 +1,4 @@
+scan 'user_sessions', {STARTROW => 'user_000000#', STOPROW => 'user_000000$', LIMIT => 3, COLUMNS => ['info:start_time', 'info:conversion_status', 'device:type']}
+scan 'product_daily_metrics', {STARTROW => 'prod_01476#', STOPROW => 'prod_01476$', LIMIT => 5}
+get 'product_daily_metrics', 'prod_01476#20260807'
+exit

@@ -1,0 +1,6 @@
+create 'user_sessions', {NAME => 'info', VERSIONS => 1}, {NAME => 'device', VERSIONS => 1}, {NAME => 'activity', VERSIONS => 1}
+create 'product_daily_metrics', {NAME => 'm', VERSIONS => 1}
+list
+describe 'user_sessions'
+describe 'product_daily_metrics'
+exit

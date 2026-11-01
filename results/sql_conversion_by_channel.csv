@@ -1,0 +1,16 @@
+referrer,device_type,sessions,converted,abandoned,conversion_pct,avg_duration_s
+direct,desktop,6815,1449,2986,21.26,1806.0
+search_engine,mobile,6537,1380,2893,21.11,1823.0
+affiliate,desktop,6784,1430,3005,21.08,1791.0
+search_engine,tablet,6710,1409,2985,21.0,1817.0
+affiliate,tablet,6672,1400,2993,20.98,1837.0
+social,tablet,6666,1389,2915,20.84,1810.0
+affiliate,mobile,6694,1372,2997,20.5,1798.0
+search_engine,desktop,6518,1329,2891,20.39,1813.0
+social,mobile,6745,1373,3067,20.36,1798.0
+direct,mobile,6581,1337,2929,20.32,1804.0
+email,desktop,6736,1346,3010,19.98,1821.0
+direct,tablet,6580,1312,2981,19.94,1809.0
+social,desktop,6632,1311,2964,19.77,1815.0
+email,tablet,6661,1316,2936,19.76,1803.0
+email,mobile,6669,1283,3094,19.24,1796.0

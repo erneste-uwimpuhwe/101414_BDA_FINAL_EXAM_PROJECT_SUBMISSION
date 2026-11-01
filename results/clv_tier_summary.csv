@@ -1,0 +1,6 @@
+clv_tier,users,avg_orders,avg_order_value,avg_clv_12m_revenue,avg_clv_12m_profit,avg_sessions,avg_session_min,pages_per_session
+1_Platinum,2376,5.0,1333.37,25601.63,6614.11,10.75,30.1,10.2
+2_Gold,2376,3.48,1205.66,15507.68,4010.9,10.19,30.2,10.0
+3_Silver,2376,2.53,1096.32,9752.36,2535.97,9.82,30.1,10.0
+4_Bronze,2376,1.61,710.23,4145.19,1079.39,9.56,30.2,9.8
+5_No purchase,496,0.0,0.0,0.0,0.0,8.49,29.8,9.5
